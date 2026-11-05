@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "siteName": "NCAI Consultorias e Serviços, EI",
+    "home": { "title": "NCAI | Websites, Aplicações Web e Plataformas Digitais", "description": "A NCAI cria websites, plataformas digitais e aplicações à medida, transformando ideias ambiciosas em experiências reais. Em Moçambique." },
+    "work": { "title": "Projectos | NCAI", "description": "Websites, lojas online e plataformas digitais desenhados e desenvolvidos pela NCAI para marcas de fitness, saúde e consumo." },
+    "services": { "title": "Serviços | NCAI", "description": "Design e desenvolvimento de websites, aplicações web à medida, plataformas digitais, design UI/UX e desenvolvimento de produtos digitais." },
+    "about": { "title": "Sobre | NCAI", "description": "Como a NCAI aborda o design, o desenvolvimento e a colaboração para transformar ideias em experiências digitais funcionais." },
+    "contact": { "title": "Contacto | NCAI", "description": "Conte à NCAI o que pretende criar. Inicie a conversa no WhatsApp ou por email." },
+    "privacy": { "title": "Política de Privacidade | NCAI", "description": "Como o website da NCAI trata a informação e como nos contactar sobre privacidade." },
+    "caseStudySuffix": "Estudo de caso | NCAI"
+  },
+  "skipLink": "Saltar para o conteúdo",
+  "nav": {
+    "label": "Navegação principal", "home": "Página inicial da NCAI", "work": "Projectos", "services": "Serviços", "about": "Sobre", "contact": "Contacto",
+    "open": "Abrir menu", "close": "Fechar menu", "language": "Idioma", "switchTo": "View in English", "switchShort": "EN"
+  },
+  "cta": { "start": "Iniciar um Projecto", "explore": "Explorar Projectos", "viewAll": "Ver Todos os Projectos", "whatsapp": "Conversar no WhatsApp", "email": "Enviar um Email", "call": "Ligar" },
+  "home": {
+    "heroTitle": "As suas ideias merecem mais do que um <strike>modelo pronto</strike>.",
+    "heroDescription": "Criamos websites, plataformas digitais e aplicações à medida, transformando ideias ambiciosas em experiências reais.",
+    "heroKicker": "Estúdio de desenvolvimento digital, Moçambique",
+    "problem": {
+      "label": "O desafio",
+      "title": "Grandes ideias merecem grandes experiências digitais.",
+      "body": "O seu negócio não deve ficar limitado por um website desactualizado, uma experiência digital frustrante ou pela complexidade de criar algo novo.",
+      "items": [
+        { "title": "Não sabe por onde começar", "body": "Tem uma ideia, mas a parte técnica parece demasiado grande para enfrentar." },
+        { "title": "O seu website já não o representa", "body": "O seu negócio evoluiu, e a sua presença online não acompanhou." },
+        { "title": "Os clientes perdem-se pelo caminho", "body": "Quando uma experiência digital é confusa, as pessoas que quer alcançar desistem." }
+      ]
+    },
+    "guide": {
+      "label": "O seu guia",
+      "title": "Traga a sua visão. Nós ajudamos a encontrar o caminho.",
+      "body": "Criar algo digital pode parecer esmagador, sobretudo quando é tão importante para si. Começamos por ouvir, explicamos tudo em linguagem simples e tratamos do design e do desenvolvimento consigo.",
+      "proofTitle": "Veja por si mesmo.",
+      "proofBody": "Cada projecto do nosso portefólio é um website ou aplicação real, disponível online. Abra-os, utilize-os e avalie o trabalho por si."
+    },
+    "services": { "label": "Serviços", "title": "Tudo o que precisa para dar vida à sua visão digital." },
+    "work": { "label": "Projectos seleccionados", "title": "Ideias que ganham vida.", "body": "Uma selecção de onze projectos nas áreas de saúde, fitness, comércio e plataformas digitais." },
+    "plan": {
+      "label": "O plano",
+      "title": "Da visão à realidade. Em três passos simples.",
+      "steps": [
+        { "title": "Partilhe a Sua Visão", "body": "Diga-nos o que pretende criar, mesmo que seja ainda apenas uma ideia. Ajudamos a dar-lhe forma." },
+        { "title": "Desenhamos e Desenvolvemos", "body": "Desenhamos a experiência e construímo-la, mantendo-o envolvido ao longo do caminho." },
+        { "title": "Lance a Sua Solução Digital", "body": "O seu website, plataforma ou aplicação fica disponível, pronto para as pessoas a quem se destina." }
+      ]
+    },
+    "success": {
+      "label": "O que muda",
+      "title": "Imagine a sua ideia, finalmente no mundo.",
+      "withoutLabel": "Sem a presença digital certa",
+      "withLabel": "Com um produto construído em torno da sua visão",
+      "without": ["Oportunidades perdidas", "Uma primeira impressão fraca", "Experiências frustrantes para os clientes", "Uma ideia que continua parada"],
+      "with": ["Um lugar claro para onde enviar os seus clientes", "Uma apresentação à altura da sua ambição", "Uma experiência desenhada para o seu público", "Um produto funcional sobre o qual pode crescer"]
+    }
+  },
+  "finalCta": { "title": "Pronto para dar vida à sua próxima ideia?", "body": "Vamos criar algo com significado." },
+  "work": {
+    "label": "Projectos",
+    "title": "Ideias que ganham vida.",
+    "body": "Onze projectos reais nas áreas de fitness, saúde, comércio e plataformas digitais. Todos estão disponíveis online para explorar.",
+    "filterLabel": "Filtrar projectos por categoria",
+    "all": "Todos os Projectos",
+    "count": "{count, plural, one {# projecto} other {# projectos}}",
+    "empty": "Ainda não existem projectos nesta categoria."
+  },
+  "categories": { "fitness": "Fitness e Bem-estar", "healthcare": "Saúde", "commerce": "Marcas e Comércio", "platforms": "Plataformas Digitais" },
+  "project": {
+    "backToWork": "Todos os projectos", "overview": "Visão geral", "features": "O que a experiência inclui", "technology": "Tecnologia",
+    "category": "Categoria", "location": "Localização", "visit": "Visitar Website", "visitApp": "Abrir a Aplicação", "visitSite": "Visitar o Website",
+    "next": "Próximo projecto", "gallery": "Ecrãs", "mobile": "No telemóvel", "liveLabel": "Projecto online",
+    "journeyLabel": "O percurso", "journeyTitle": "De uma pergunta difícil ao passo seguinte.",
+    "relationLabel": "Duas partes, uma experiência", "relationTitle": "Um website que explica. Uma aplicação que responde.",
+    "relationBody": "O website apresenta o SAAJ Virtual e responde às primeiras perguntas. A aplicação é onde a experiência acontece. Cada um tem o seu papel, e o website conduz directamente os visitantes à aplicação.",
+    "relationSite": "Website", "relationApp": "Aplicação", "caseStudy": "Ver estudo de caso", "opensNewTab": "(abre num novo separador)"
+  },
+  "services": {
+    "label": "Serviços",
+    "title": "Tudo o que precisa para dar vida à sua visão digital.",
+    "body": "Cinco formas de o ajudarmos a transformar uma ideia numa experiência digital funcional. Cada uma é demonstrada com trabalho real.",
+    "includes": "O que pode incluir",
+    "seeWork": "Veja nos nossos projectos"
+  },
+  "about": {
+    "label": "Sobre a NCAI",
+    "title": "A sua visão vem primeiro.",
+    "body": "A NCAI é um negócio de desenvolvimento digital em Moçambique. Ajudamos empreendedores, empresas, marcas e organizações a transformar as suas ideias em experiências digitais profissionais.",
+    "beliefTitle": "Um negócio ambicioso merece uma presença digital à altura do seu potencial.",
+    "principlesLabel": "Como trabalhamos",
+    "principles": [
+      { "title": "Começamos pelo seu cliente", "body": "Antes de desenhar seja o que for, olhamos para quem precisa de alcançar e para o que essas pessoas precisam de fazer. A experiência nasce daí." },
+      { "title": "Desenhamos à sua medida", "body": "Uma clínica e um ginásio não devem parecer iguais. Cada projecto tem a sua própria direcção visual, e não um modelo pronto com um novo logótipo." },
+      { "title": "Construímos o que desenhamos", "body": "O design e o desenvolvimento andam juntos, para que aquilo que aprova seja o que os seus clientes realmente utilizam." },
+      { "title": "Mantemos tudo claro", "body": "Saberá sempre o que está a acontecer e qual é o passo seguinte, em linguagem simples, sem complicações técnicas." }
+    ],
+    "workCta": "Veja como isto funciona na prática."
+  },
+  "contact": {
+    "label": "Contacto",
+    "title": "Vamos dar vida à sua ideia.",
+    "body": "Conte-nos o que pretende criar. Vamos ajudá-lo a definir os próximos passos.",
+    "whatsappHint": "A forma mais rápida de iniciar uma conversa.",
+    "emailHint": "Ideal para partilhar mais detalhes.",
+    "phoneLabel": "Prefere falar?",
+    "whatsappMessage": "Olá NCAI, gostaria de falar sobre um projecto."
+  },
+  "footer": {
+    "tagline": "O seu negócio tem uma visão. Ajudamos a dar-lhe vida com design e tecnologia bem pensados.",
+    "navigate": "Navegar", "contact": "Contacto", "country": "Moçambique", "rights": "Todos os direitos reservados.", "privacy": "Política de Privacidade"
+  },
+  "privacy": {
+    "label": "Legal",
+    "title": "Política de Privacidade",
+    "updated": "Última actualização: Novembro de 2026",
+    "sections": [
+      { "title": "Quem somos", "body": "Este website pertence à NCAI Consultorias e Serviços, EI, um negócio em Moçambique." },
+      { "title": "O que este website recolhe", "body": "Este website não tem formulário de contacto, contas de utilizador nem ferramentas de análise ou publicidade, e não lhe pede informação pessoal. Não utiliza cookies de rastreamento." },
+      { "title": "Dados técnicos", "body": "Como a maioria dos websites, é disponibilizado por um fornecedor de alojamento, actualmente a Vercel, cujos sistemas podem processar informação técnica, como o endereço IP e o tipo de navegador, para disponibilizar o website em segurança." },
+      { "title": "Quando nos contacta", "body": "Se nos contactar por WhatsApp, email ou telefone, recebemos a informação que decidir partilhar e utilizamo-la apenas para responder e falar sobre o seu projecto. Essas conversas passam também pelo fornecedor do respectivo serviço, de acordo com os seus próprios termos de privacidade." },
+      { "title": "Ligações para outros websites", "body": "O nosso portefólio inclui ligações para websites que não operamos. Cada um tem as suas próprias práticas de privacidade." },
+      { "title": "As suas escolhas", "body": "Pode perguntar-nos que informação guardamos das suas mensagens, ou pedir que a corrijamos ou eliminemos, escrevendo para o endereço de email abaixo." },
+      { "title": "Alterações", "body": "Se esta política mudar, actualizaremos esta página e a data acima." }
+    ],
+    "contactLine": "Questões sobre privacidade? Escreva-nos para"
+  },
+  "errors": {
+    "notFoundLabel": "Erro 404", "notFoundTitle": "Esta página não existe.", "notFoundBody": "A ligação pode estar desactualizada, ou a página pode ter mudado de lugar.", "backHome": "Voltar ao início",
+    "errorLabel": "Ocorreu um erro", "errorTitle": "Não foi possível carregar esta página.", "errorBody": "Tente novamente. Se o problema persistir, contacte-nos directamente.", "retry": "Tentar novamente"
+  }
+}

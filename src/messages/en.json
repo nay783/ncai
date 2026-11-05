@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "siteName": "NCAI Consultorias e Serviços, EI",
+    "home": { "title": "NCAI | Websites, Web Applications and Digital Platforms", "description": "NCAI designs and develops distinctive websites, digital platforms and applications that bring ambitious ideas to life. Based in Mozambique." },
+    "work": { "title": "Work | NCAI", "description": "Websites, storefronts and digital platforms designed and developed by NCAI for fitness, healthcare and consumer brands." },
+    "services": { "title": "Services | NCAI", "description": "Website design and development, custom web applications, digital platforms, UI/UX design and digital product development." },
+    "about": { "title": "About | NCAI", "description": "How NCAI approaches design, development and collaboration to turn ideas into working digital experiences." },
+    "contact": { "title": "Contact | NCAI", "description": "Tell NCAI what you are building. Start the conversation on WhatsApp or by email." },
+    "privacy": { "title": "Privacy Policy | NCAI", "description": "How the NCAI website handles information, and how to contact us about privacy." },
+    "caseStudySuffix": "Case study | NCAI"
+  },
+  "skipLink": "Skip to content",
+  "nav": {
+    "label": "Main navigation", "home": "NCAI home", "work": "Work", "services": "Services", "about": "About", "contact": "Contact",
+    "open": "Open menu", "close": "Close menu", "language": "Language", "switchTo": "Ver em português", "switchShort": "PT"
+  },
+  "cta": { "start": "Start a Project", "explore": "Explore Our Work", "viewAll": "View All Projects", "whatsapp": "Chat on WhatsApp", "email": "Send an Email", "call": "Call us" },
+  "home": {
+    "heroTitle": "Your ideas deserve more than a <strike>template</strike>.",
+    "heroDescription": "We design and develop distinctive websites, digital platforms, and applications that bring ambitious ideas to life.",
+    "heroKicker": "Digital development studio, Mozambique",
+    "problem": {
+      "label": "The challenge",
+      "title": "Great ideas deserve great digital experiences.",
+      "body": "Your business shouldn't be held back by an outdated website, a frustrating digital experience, or the complexity of building something new.",
+      "items": [
+        { "title": "You are not sure where to start", "body": "You have an idea, but the technical side feels too big to take on." },
+        { "title": "Your website no longer fits", "body": "Your business has moved on, and your online presence hasn't kept up." },
+        { "title": "Customers lose their way", "body": "When a digital experience is confusing, the people you want to reach move on." }
+      ]
+    },
+    "guide": {
+      "label": "Your guide",
+      "title": "You bring the vision. We help you find the way.",
+      "body": "Building something digital can feel overwhelming, especially when it matters this much. We listen first, explain things in plain language, and take care of the design and development with you.",
+      "proofTitle": "See it, don't take our word for it.",
+      "proofBody": "Every project in our portfolio is a real, live website or application. Open them, use them, and judge the work for yourself."
+    },
+    "services": { "label": "Services", "title": "Everything you need to bring your digital vision to life." },
+    "work": { "label": "Selected work", "title": "Ideas brought to life.", "body": "A selection from eleven projects across health, fitness, commerce and digital platforms." },
+    "plan": {
+      "label": "The plan",
+      "title": "From vision to reality. In three simple steps.",
+      "steps": [
+        { "title": "Share Your Vision", "body": "Tell us what you want to build, even if it is still only an idea. We help you shape it." },
+        { "title": "We Design & Develop", "body": "We design the experience and build it, keeping you involved along the way." },
+        { "title": "Launch Your Experience", "body": "Your website, platform or application goes live, ready for the people you built it for." }
+      ]
+    },
+    "success": {
+      "label": "What changes",
+      "title": "Imagine your idea, finally out in the world.",
+      "withoutLabel": "Without the right digital presence",
+      "withLabel": "With a product built around your vision",
+      "without": ["Missed opportunities", "A poor first impression", "Frustrating customer experiences", "An idea that stays stalled"],
+      "with": ["A clear place to send your customers", "A presentation that reflects your ambition", "An experience designed for your audience", "A functional product you can build on"]
+    }
+  },
+  "finalCta": { "title": "Ready to bring your next idea to life?", "body": "Let's build something meaningful." },
+  "work": {
+    "label": "Work",
+    "title": "Ideas brought to life.",
+    "body": "Eleven real projects across fitness, healthcare, commerce and digital platforms. Each one is live and ready to explore.",
+    "filterLabel": "Filter projects by category",
+    "all": "All Projects",
+    "count": "{count, plural, one {# project} other {# projects}}",
+    "empty": "There are no projects in this category yet."
+  },
+  "categories": { "fitness": "Fitness & Wellness", "healthcare": "Healthcare", "commerce": "Brands & Commerce", "platforms": "Digital Platforms" },
+  "project": {
+    "backToWork": "All projects", "overview": "Overview", "features": "What the experience includes", "technology": "Technology",
+    "category": "Category", "location": "Location", "visit": "Visit Website", "visitApp": "Open the Application", "visitSite": "Visit the Marketing Website",
+    "next": "Next project", "gallery": "Screens", "mobile": "On mobile", "liveLabel": "Live project",
+    "journeyLabel": "The journey", "journeyTitle": "From a difficult question to the next step.",
+    "relationLabel": "Two parts, one experience", "relationTitle": "A website that explains. An application that responds.",
+    "relationBody": "The marketing website introduces SAAJ Virtual and answers first questions. The application is where the experience happens. Each has its own role, and the website leads visitors directly to the application.",
+    "relationSite": "Marketing website", "relationApp": "Application", "caseStudy": "View case study", "opensNewTab": "(opens in a new tab)"
+  },
+  "services": {
+    "label": "Services",
+    "title": "Everything you need to bring your digital vision to life.",
+    "body": "Five ways we help you turn an idea into a working digital experience. Each one is shown through real work.",
+    "includes": "What this can include",
+    "seeWork": "See it in our work"
+  },
+  "about": {
+    "label": "About NCAI",
+    "title": "Your vision comes first.",
+    "body": "NCAI is a digital development business in Mozambique. We help entrepreneurs, businesses, brands and organisations turn their ideas into professional digital experiences.",
+    "beliefTitle": "An ambitious business deserves a digital presence that reflects its potential.",
+    "principlesLabel": "How we work",
+    "principles": [
+      { "title": "We start with your customer", "body": "Before we design anything, we look at who you need to reach and what they need to do. The experience follows from that." },
+      { "title": "We design it to fit you", "body": "A clinic and a gym should not feel the same. Every project gets its own visual direction, rather than a template with a new logo." },
+      { "title": "We build what we design", "body": "Design and development happen together, so what you approve is what your customers actually use." },
+      { "title": "We keep it clear", "body": "You will always know what is happening and what comes next, in plain language, without technical overwhelm." }
+    ],
+    "workCta": "See how this looks in practice."
+  },
+  "contact": {
+    "label": "Contact",
+    "title": "Let's bring your idea to life.",
+    "body": "Tell us what you're building. We'll help you explore the next steps.",
+    "whatsappHint": "The quickest way to start a conversation.",
+    "emailHint": "Best for sharing more detail.",
+    "phoneLabel": "Prefer to talk?",
+    "whatsappMessage": "Hello NCAI, I would like to talk about a project."
+  },
+  "footer": {
+    "tagline": "Your business has a vision. We help bring it to life through thoughtful design and technology.",
+    "navigate": "Navigate", "contact": "Contact", "country": "Mozambique", "rights": "All rights reserved.", "privacy": "Privacy Policy"
+  },
+  "privacy": {
+    "label": "Legal",
+    "title": "Privacy Policy",
+    "updated": "Last updated: November 2026",
+    "sections": [
+      { "title": "Who we are", "body": "This website belongs to NCAI Consultorias e Serviços, EI, a business in Mozambique." },
+      { "title": "What this website collects", "body": "This website has no contact form, no user accounts and no analytics or advertising tools, and it does not ask you for personal information. It does not set cookies for tracking." },
+      { "title": "Technical data", "body": "Like most websites, it is delivered by a hosting provider, currently Vercel, whose systems may process technical information such as your IP address and browser type in order to deliver the site securely." },
+      { "title": "When you contact us", "body": "If you contact us on WhatsApp, by email or by phone, we receive the information you choose to share and use it only to reply and to discuss your project. Those conversations also pass through the provider of that service, under its own privacy terms." },
+      { "title": "Links to other websites", "body": "Our portfolio links to websites that we do not operate. Each one has its own privacy practices." },
+      { "title": "Your choices", "body": "You can ask us what information we hold from your messages, or ask us to correct or delete it, by writing to the email address below." },
+      { "title": "Changes", "body": "If this policy changes, we will update this page and the date above." }
+    ],
+    "contactLine": "Questions about privacy? Write to us at"
+  },
+  "errors": {
+    "notFoundLabel": "Error 404", "notFoundTitle": "This page doesn't exist.", "notFoundBody": "The link may be out of date, or the page may have moved.", "backHome": "Back to home",
+    "errorLabel": "Something went wrong", "errorTitle": "We couldn't load this page.", "errorBody": "Please try again. If the problem continues, contact us directly.", "retry": "Try again"
+  }
+}
