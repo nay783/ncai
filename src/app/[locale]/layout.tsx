@@ -98,7 +98,7 @@ export default async function LocaleLayout({ children, params }: Props) {
             {t("skipLink")}
           </a>
           <Header />
-          <main id="main">{children}</main>
+          <main id="main" className="overflow-x-clip">{children}</main>
           <Footer />
           <RevealObserver />
         </NextIntlClientProvider>

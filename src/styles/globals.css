@@ -20,7 +20,7 @@
 
 @layer base {
   :root {
-    --gutter: clamp(1.25rem, 4vw, 3.5rem);
+    --gutter: clamp(1.5rem, 4vw, 3.5rem);
     --section-y: clamp(5rem, 11vw, 10rem);
     --header-h: 4.5rem;
 
@@ -51,7 +51,6 @@
     font-size: 1.0625rem;
     line-height: 1.6;
     -webkit-font-smoothing: antialiased;
-    overflow-x: clip;
   }
 
   h1,
@@ -264,13 +263,25 @@
     }
   }
 
+  /* Black above the bar, so a browser toolbar collapsing on a phone never exposes the page behind it. */
+  .site-header::before {
+    content: "";
+    position: absolute;
+    inset-inline: 0;
+    bottom: 100%;
+    height: 100vh;
+    background: var(--color-ink);
+    pointer-events: none;
+  }
+
   /* Hairline columns behind the hero: the template that the work grows out of. */
   .hairlines {
     position: absolute;
     inset: 0;
     display: grid;
     grid-template-columns: repeat(6, 1fr);
-    padding-inline: var(--gutter);
+    /* Half a gutter out, so the outer lines frame the content instead of running through it. */
+    padding-inline: calc(var(--gutter) / 2);
     pointer-events: none;
   }
 

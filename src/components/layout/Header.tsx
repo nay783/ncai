@@ -15,7 +15,9 @@ export function Header() {
 
   return (
     // Always black: the official logo only exists in white on black, and must not be recoloured.
-    <header className="on-dark fixed inset-x-0 top-0 z-50 border-b border-[var(--rule)]">
+    // Sticky rather than fixed: iOS browsers move fixed bars out of place as their toolbars collapse.
+    // The negative margin keeps the bar overlaying the page, so sections keep their own header offset.
+    <header className="site-header on-dark sticky top-0 z-50 mb-[calc(-1*var(--header-h)-1px)] border-b border-[var(--rule)]">
       <div className="wrap flex h-[var(--header-h)] items-center justify-between gap-6">
         <Link href="/" aria-label={t("nav.home")} className="relative z-10 inline-flex min-h-11 items-center">
           <Image
